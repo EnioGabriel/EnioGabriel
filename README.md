@@ -35,7 +35,8 @@ Sou recém formado em Ciência da Computação e estou me capacitando para me to
 <br />
 <br />
 <br />
-<hr />
+<br />
+<br />
 
 <p align="left" > 
   <b>Linguagens e ferramentas:</b>
