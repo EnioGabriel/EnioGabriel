@@ -1,16 +1,50 @@
-### Hi there 👋
+<h1 align="center"> Seja bem vindo(a)! </h1>
+<hr />
+<p align="left" > 
+  <b>Olá, Mundo! 👋</b>
+</p>
+<p align="left" >
+Me chamo <b> Enio Gabriel</b>.
+</p>
+<p align="left" >
+Atualmente moro em Lages/SC-BR.<br />
+Sou recém formado em Ciência da Computação e estou me capacitando para me tornar um <b>Desenvolvedor Mobile</b>.
+</p>
+</p>
+<hr />
 
-<!--
-**EnioGabriel/EnioGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-Here are some ideas to get you started:
+**Meus interesses pessoais:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Estou estudando Spring Boot com Java e MongoDB;
+- 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+- 👾 Meus hobbies são:
+  - Programar;
+  - Ir para academia;
+  - Assistir filmes e séries;
+  - Jogar FIFA;
+- 📫 Se quiser pode enviar um email para gabrielferreira.sc@gmail.com
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnioGabriel&layout=compact&theme=graywhite&title_color=268bd2" alt="Enio Gabriel" />
+</p>
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<p align="left" > 
+  <b>Linguagens e ferramentas:</b>
+</p>
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
+</p>
