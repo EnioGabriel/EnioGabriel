@@ -24,7 +24,7 @@ Sou recém formado em Ciência da Computação e estou me capacitando para me to
   - Ir para academia;
   - Assistir filmes e séries;
   - Jogar FIFA;
-- 📫 Se quiser pode enviar um email para gabrielferreira.sc@gmail.com
+- 📫 email: gabrielferreira.sc@gmail.com
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnioGabriel&layout=compact&theme=graywhite&title_color=268bd2" alt="Enio Gabriel" />
