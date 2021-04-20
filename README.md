@@ -29,14 +29,13 @@ Sou recém formado em Ciência da Computação e estou me capacitando para me to
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnioGabriel&layout=compact&theme=graywhite&title_color=268bd2" alt="Enio Gabriel" />
 </p>
+
 <br />
 <br />
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+<hr />
 
 <p align="left" > 
   <b>Linguagens e ferramentas:</b>
