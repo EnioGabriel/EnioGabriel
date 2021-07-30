@@ -44,6 +44,7 @@ Sou recém formado em Ciência da Computação e estou me capacitando para me to
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
 </p>
+<hr />
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnioGabriel&layout=compact&theme=graywhite&title_color=268bd2" alt="Enio Gabriel" />
