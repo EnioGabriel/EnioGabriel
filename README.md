@@ -13,7 +13,7 @@ Sou recém formado em Ciência da Computação e estou me capacitando para me to
 </p>
 <hr />
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="320" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="345" />
 
 **Meus interesses pessoais:**
 
