@@ -13,7 +13,7 @@ Sou recém formado em Ciência da Computação e estou me capacitando para me to
 </p>
 <hr />
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="320" />
 
 **Meus interesses pessoais:**
 
@@ -25,19 +25,9 @@ Sou recém formado em Ciência da Computação e estou me capacitando para me to
   - Assistir filmes e séries;
   - Jogar FIFA;
 - 📫 email: gabrielferreira.sc@gmail.com
+<br />
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnioGabriel&layout=compact&theme=graywhite&title_color=268bd2" alt="Enio Gabriel" />
-</p>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<hr />
 
 <p align="left" > 
   <b>Linguagens e ferramentas:</b>
@@ -53,4 +43,8 @@ Sou recém formado em Ciência da Computação e estou me capacitando para me to
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnioGabriel&layout=compact&theme=graywhite&title_color=268bd2" alt="Enio Gabriel" />
 </p>
