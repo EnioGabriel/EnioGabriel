@@ -26,6 +26,7 @@ Sou recém formado em Ciência da Computação e estou me capacitando para me to
   - Jogar FIFA;
 - 📫 email: gabrielferreira.sc@gmail.com
 <br />
+<br />
 
 <hr />
 
