@@ -27,7 +27,6 @@ Sou recém formado em Ciência da Computação e estou me capacitando para me to
 - 📫 email: gabrielferreira.sc@gmail.com
 <br />
 <br />
-<br />
 
 <hr />
 
