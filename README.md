@@ -17,7 +17,7 @@ Sou recém formado em Ciência da Computação e estou me capacitando para me to
 
 **Meus interesses pessoais:**
 
-- 💻 Estou estudando Spring Boot com Java e MongoDB;
+- 💻 Estou estudando ReactJs, React Native e Node.js;
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são:
   - Programar;
