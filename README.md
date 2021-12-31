@@ -7,7 +7,7 @@
 Me chamo <b> Enio Gabriel</b>.
 </p>
 <p align="left" >
-Atualmente moro em Lages/SC-BR.<br />
+Atualmente moro em Florianópolis/SC-BR.<br />
 Sou recém formado em Ciência da Computação e estou me capacitando para me tornar um <b>Desenvolvedor Mobile</b>.
 </p>
 </p>
