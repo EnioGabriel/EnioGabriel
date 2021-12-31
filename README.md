@@ -8,7 +8,7 @@ Me chamo <b> Enio Gabriel</b>.
 </p>
 <p align="left" >
 Atualmente moro em Florianópolis/SC-BR.<br />
-Sou recém formado em Ciência da Computação e estou me capacitando para me tornar um <b>Desenvolvedor Mobile</b>.
+Trabalho como <b>Desenvolvedor Mobile Jr</b> (React Native).
 </p>
 </p>
 <hr />
